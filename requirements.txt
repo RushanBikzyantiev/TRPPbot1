@@ -1,4 +1,2 @@
 Vk_api
-time
-random
 pip
