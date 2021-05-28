@@ -1,3 +1,2 @@
 Vk_api
-math
 pip
