@@ -1,6 +1,7 @@
 import vk_api
 import time
 import random
+import csv
 
 token = "04b2b43f23c55e32f201c68ff2791a2732fc8dd2ab8b046e24316c4a8f5c96ddbc77b9c4096e908321b5f"
 
